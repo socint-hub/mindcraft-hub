@@ -1,2 +1,2 @@
-# cylenberj-hub
+# mindcraft-hub
 Trial and error works
