@@ -1,0 +1,12 @@
+- name: Trigger local sync webhook
+  run: |
+    curl -X POST http://127.0.0.1:8000/sync \
+      -H "Content-Type: application/json" \
+      -H "Accept: application/json" \
+      -d '{
+        "event":"deploy",
+        "timestamp":"'$(date -u +%Y-%m-%dT%H:%M:%SZ)'",
+        "repo":"socint-hub/mindcraft-hub",
+        "branch":"main",
+        "build_status":"success"
+      }' || echo "Local webhook not available (GitHub CI/CD environment)"
