@@ -1,47 +1,142 @@
-<div align="center">
+# 🧠 MindCraft by Socint
 
-<img src="./public/branding/mindcraft-logo.png" width="400"/>
+> **Code. Create. Connect.**
 
-# MindCraft by Socint
+MindCraft by Socint is a community-driven platform where developers, programmers, students, and technology enthusiasts come together to transform ideas into real-world software.
 
-### Code. Create. Connect.
-
-Start from scratch. Build without limits.
+More than just a project repository, MindCraft is the beginning of a growing ecosystem built to encourage learning, collaboration, and innovation. Whether you're building your first application, contributing to open source, or exploring new technologies, MindCraft is designed to be a place where creativity meets code.
 
 ---
 
-## ✨ Features
+## 🌟 Vision
 
-- 🎨 **Creative Design** - Build stunning interfaces
-- ⚡ **Fast Performance** - Optimized for speed
-- 🔗 **Easy Integration** - Connect seamlessly
-- 🚀 **Scalable** - Grow without limits
+Our vision is to create a developer community where knowledge is shared, projects are built together, and every idea has the opportunity to become reality.
+
+We believe that innovation grows through collaboration.
+
+---
+
+## 🎯 Mission
+
+- Empower developers to learn and grow.
+- Encourage collaboration through open-source projects.
+- Build software that creates real value.
+- Inspire innovation through technology and community.
+
+---
+
+## ✨ Core Features
+
+- 💡 Share ideas and technical knowledge
+- 🚀 Build and manage software projects
+- 🤝 Collaborate with developers worldwide
+- 📚 Learn through community-driven resources
+- 🌐 Showcase your work and portfolio
+- 🔍 Discover new technologies and best practices
+
+---
 
 ## 🚀 Getting Started
 
+Clone the repository:
+
 ```bash
-git clone https://github.com/socint-hub/mindcraft-hub.git
-cd mindcraft-hub
-npm install
-npm start
+git clone https://github.com/socint-hub/mindcraft.git
 ```
 
-## 🛠️ Technologies
+Navigate to the project:
 
-- HTML5 & CSS3
-- JavaScript
-- Modern Web Standards
+```bash
+cd mindcraft
+```
 
-## 📖 About
+Install dependencies:
 
-MindCraft is a platform for developers and creators to code, create amazing projects, and connect with a community of innovators.
+```bash
+npm install
+```
 
-## 📝 License
+Run the development server:
 
-MIT License - feel free to use this project
+```bash
+npm run dev
+```
+
+If using Laravel:
+
+```bash
+php artisan serve
+```
+
+Open your browser and begin building.
 
 ---
 
-**Made with ❤️ by Socint**
+## 🛠️ Technology Stack
 
-</div>
+- Laravel
+- React
+- Inertia.js
+- Vite
+- Tailwind CSS
+- JavaScript
+- HTML5
+- CSS3
+
+---
+
+## 📂 Project Status
+
+🚧 **Currently under active development.**
+
+MindCraft is being built step by step with a focus on creating a clean, scalable, and developer-friendly platform.
+
+---
+
+## 🗺️ Roadmap
+
+- User Authentication
+- Developer Profiles
+- Project Showcase
+- Team Collaboration
+- Community Discussions
+- Learning Resources
+- Open-Source Contributions
+- AI-assisted Development Tools
+- Public API
+
+---
+
+## 🤝 Contributing
+
+Contributions, ideas, bug reports, and feature suggestions are always welcome.
+
+Together, we can build something meaningful for the developer community.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👤 Creator
+
+**Cylenberj**
+
+Creator of **MindCraft** and founder of the **Socint** brand.
+
+---
+
+## ❤️ About Socint
+
+**Socint** is a technology brand dedicated to building software, empowering developers, and fostering communities where innovation thrives.
+
+MindCraft is the first step in that journey.
+
+---
+
+# **Code. Create. Connect.**
+
+*"Every great application starts with an idea. Every great community starts with people willing to build together."*
