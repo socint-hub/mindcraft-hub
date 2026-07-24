@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./public/Branding/Mindcraft-logo.png" width="400"/>
+<img src="./public/branding/mindcraft-logo.png" width="400"/>
 
 # MindCraft by Socint
 
